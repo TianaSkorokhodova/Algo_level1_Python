@@ -1,1 +1,1 @@
-# Algo_level1_Python
+Python training exercises by SI
