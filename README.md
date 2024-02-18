@@ -1,1 +1,1 @@
-Python training exercises by SI
+Python training exercises
